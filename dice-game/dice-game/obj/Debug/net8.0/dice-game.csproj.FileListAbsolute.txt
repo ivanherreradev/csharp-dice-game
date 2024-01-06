@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\bin\Debug\net8.0\dice-game.exe
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\bin\Debug\net8.0\dice-game.deps.json
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\bin\Debug\net8.0\dice-game.runtimeconfig.json
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\bin\Debug\net8.0\dice-game.dll
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\bin\Debug\net8.0\dice-game.pdb
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\obj\Debug\net8.0\dice-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\obj\Debug\net8.0\dice-game.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\obj\Debug\net8.0\dice-game.AssemblyInfo.cs
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\obj\Debug\net8.0\dice-game.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\obj\Debug\net8.0\dice-game.dll
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\obj\Debug\net8.0\refint\dice-game.dll
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\obj\Debug\net8.0\dice-game.pdb
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\obj\Debug\net8.0\dice-game.genruntimeconfig.cache
+C:\Users\Usuario\Documents\csharp-dice-game\dice-game\dice-game\obj\Debug\net8.0\ref\dice-game.dll
